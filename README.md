@@ -68,4 +68,4 @@ Pull requests are welcome! Just don’t break the tomato. 🍅
 ---
 
 ## 📜 License  
-MIT License — so you can fork, tweak, and spread the tomato love.  
+MIT License : so you can fork, tweak, and spread the tomato love.  
